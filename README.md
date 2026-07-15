@@ -1,4 +1,4 @@
-# AI Lead Agent
+@AI Lead Agent
 
 ## About
 AI Lead Agent is a project to build an AI-powered voice assistant that can talk to potential customers, answer their questions, and collect lead information automatically.
